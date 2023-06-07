@@ -5,6 +5,8 @@ Primeiro crie seu token :
 ```
 acesse: https://openai.com/
 Crie um user (Sign up) ou acesse sua conta (Log in)
+verifique seu uso trial:
+https://platform.openai.com/account/usage
 clique em :
 API
 Personal
