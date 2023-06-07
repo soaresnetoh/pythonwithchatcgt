@@ -5,13 +5,14 @@ Primeiro crie seu token :
 ```
 acesse: https://openai.com/
 Crie um user (Sign up) ou acesse sua conta (Log in)
-verifique seu uso trial:
-https://platform.openai.com/account/usage
 clique em :
 API
 Personal
 View API keys
 Create new secret key (dê um nome e salve esta chave)
+
+verifique seu uso trial:
+https://platform.openai.com/account/usage
 
 ```
 
