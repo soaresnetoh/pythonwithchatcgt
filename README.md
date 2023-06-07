@@ -11,7 +11,6 @@ Personal
 View API keys
 Create new secret key (dê um nome e salve esta chave)
 
-atualize a variável openai.api_key
 ```
 
 criar o arquivo de variáveis .env
